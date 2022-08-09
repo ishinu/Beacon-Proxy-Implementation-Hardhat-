@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Upgradeable contracts.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Beacon Proxy [docs](https://docs.openzeppelin.com/contracts/4.x/api/proxy#BeaconProxy) is just another excellent way to bring in upgrade feature in blockchain world.
 
-Try running some of the following tasks:
+Currently this contract is having a few bugs :[
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+As soon the work finishes, README will be updated with proper guide. ~Stay tuned.
